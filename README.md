@@ -51,7 +51,7 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 **a. Architektura rozwoju - stos technologiczny**
 
 * Język programowania: Python
-* Pakiety: Pandas, Numpy, SciKit learn
+* Pakiety: Pandas, Numpy, SciKit Learn, Seaborn
 
 
 ## Testy 
