@@ -12,7 +12,7 @@ Porównanie działania i jakości predykcji wybranych algorytmów klasyfikacyjny
 
 **c. Krótki opis ze wskazaniem celów**
 
-Celem projektu jest porównanie działania oraz jakości predykcji wybranych algorytmów klasyfikacyjnych (drzewa klasyfikacyjne, random forest, knn, naive bayes) na przykładzie zróżnicowanych zbiorów danych.
+Celem projektu jest stworzenie programu, który pozwoli na porównanie jakości klasyfikacji wybranych algorytmów na zróżnicowanych zbiorach danych. 
 
 ## Prawa autorkie
 
@@ -53,17 +53,22 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 **a. Architektura rozwoju - stos technologiczny**
 
 * Język programowania: Python
-* Pakiety: Pandas, Numpy, SciKit Learn, Seaborn
+* Pakiety: Pandas (obsługa i modyfikacja zbiorów danych), SciKit Learn (budowa i ocena modeli), Matplotlib (wizualizacja), Seaborn (wizualizacja)
 
 
 ## Testy 
 
 **a. Scenariusz testów**
 
-Wyliczenie ocen jakości predykcji modeli wraz z wizualizacją wyników.
-
+* Próba załadowania danych danych - załadowanie danych z wcześniej określonych funkcji, sprawdzenie czy zbiory załadowały się poprawnie
+* Wyliczenie podstawowych statystyk i stworzenie wizualizacji
+* Oszacowanie każdego z modeli
+* Podsumowanie modeli - wyświetlenie tabeli z porównaniem
 
 
 **b. Sprawozdaie z wykonania scenariuszy testów**
 
-Raport z interpretacjami wyników.
+* Próba załadowania danych danych - sukces
+* Wyliczenie podstawowych statystyk i stworzenie wizualizacji - sukces
+* Oszacowanie każdego z modeli - sukces
+* Podsumowanie wyników - sukces
