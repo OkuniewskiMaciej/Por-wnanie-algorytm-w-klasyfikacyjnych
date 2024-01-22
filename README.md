@@ -39,14 +39,14 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 | WF4.2         | Wizualizacja          | System powinien wyświetlać wizualizacje dotyczące zmiennych w zbiorze danych.                  | 1         | Funkcjonalne    |
 | WF5           | Modele                | System powinien tworzyć modele służące do klasyfikacji.                                        | 1         | Funkcjonalne    |
 | WF5.1         | Drzewo klasyfikacyjne | System powinien tworzyć optymalny model drzewa klasyfikacyjnego.                               | 1         | Funkcjonalne    |
-| WF5.2         | Randoom Forest        | System powinien tworzyć optymalny model Random Forest.                                        | 1         | Funkcjonalne    |
+| WF5.2         | Random Forest        | System powinien tworzyć optymalny model Random Forest.                                        | 1         | Funkcjonalne    |
 | WF5.3         | KNN                   | System powinien tworzyć optymalny model KNN.                                                  | 1         | Funkcjonalne    |
 | WF5.4         | Naive Bayes           | System powienien tworzyć optymalny model Naive Bayes.                                         | 1         | Funkcjonalne    |
 | WF6           | Ważność zmiennych     | System powienien wyświetlać ważność zmiennych dla każdego modelu.                              | 2        | Funkcjonalne   |
-| WF7           | Ocena predykcji       | System powinien wyświetlać oceny jakości predykcji dla każdego z modeli i zasugerować najlepszy model                      | 1         | Funkcjonalne    |
+| WF7           | Ocena predykcji       | System powinien wyświetlać oceny jakości predykcji dla każdego z modeli i zasugerować najlepszy model | 1         | Funkcjonalne    |
 | WF8           | Interfejs użytkownika | System powienien posiadać interfejs użytkownika z przejrzystymi wynikami analizy               | 2        | Funkcjonalne    |
 | WNF1          | Dokumentacja          | System powinien posiadać przejrzystą dokumentację oraz opisy kodu aby ułatwić korzystanie.    | 1         | Niefunkcjonalne |
-| WNF2              | Skalowalność      | System powinien umożliwiać dodanie kolejnych metod klasyfikacji                               | 2           | Niefunkcjonalne |
+| WNF2           | Skalowalność      | System powinien umożliwiać dodanie kolejnych metod klasyfikacji                                  | 1           | Niefunkcjonalne |
 
 ## Architektura systemu / oprogramowania
 
