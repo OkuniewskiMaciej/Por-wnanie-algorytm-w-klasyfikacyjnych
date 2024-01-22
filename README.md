@@ -53,7 +53,7 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 **Architektura rozwoju - stos technologiczny**
 
 * Język programowania: Python
-* Pakiety: Pandas (obsługa i modyfikacja zbiorów danych), SciKit Learn (budowa i ocena modeli), Matplotlib (wizualizacja), Seaborn (wizualizacja)
+* Pakiety: Pandas (obsługa i modyfikacja zbiorów danych), NumPy (obsługa wektorów danych i macierzy), SciKit Learn (budowa i ocena modeli), Matplotlib (wizualizacja), Seaborn (wizualizacja)
 
 
 ## Testy 
