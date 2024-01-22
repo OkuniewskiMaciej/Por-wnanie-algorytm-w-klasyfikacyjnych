@@ -43,6 +43,7 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 | WF5.3         | KNN                   | System powinien tworzyć optymalny model KNN.                                                  | 1         | Funkcjonalne    |
 | WF5.4         | Naive Bayes           | System powienien tworzyć optymalny model Naive Bayes.                                         | 1         | Funkcjonalne    |
 | WF6           | Ocena predykcji       | System powinien wyświetlać oceny jakości predykcji dla każdego z modeli i zasugerować najlepszy model                      | 1         | Funkcjonalne    |
+| WF7           | Interfejs użytkownika | System powienien posiadać interfejs użytkownika z przejrzystymi wynikami analizy               | 2        | Funkcjonalne    |
 | WNF1          | Dokumentacja          | System powinien posiadać przejrzystą dokumentację oraz opisy kodu aby ułatwić korzystanie.    | 1         | Niefunkcjonalne |
 | WNF2              | Skalowalność      | System powinien umożliwiać dodanie kolejnych metod klasyfikacji                               | 2           | Niefunkcjonalne |
 
