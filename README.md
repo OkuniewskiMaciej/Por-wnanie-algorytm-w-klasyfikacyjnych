@@ -50,7 +50,7 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 
 ## Architektura systemu / oprogramowania
 
-**a. Architektura rozwoju - stos technologiczny**
+**Architektura rozwoju - stos technologiczny**
 
 * Język programowania: Python
 * Pakiety: Pandas (obsługa i modyfikacja zbiorów danych), SciKit Learn (budowa i ocena modeli), Matplotlib (wizualizacja), Seaborn (wizualizacja)
