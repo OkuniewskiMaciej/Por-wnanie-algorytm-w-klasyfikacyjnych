@@ -33,7 +33,7 @@ Darmowe użytkowanie, kopiowanie, rozpowszechnianie i modyfikowanie oprogramowan
 |---------------|-----------------------|----------------------------------------------------------------------------------------------- |-----------|-----------------|
 | WF1           | Biblioteki            | System powinien załadować biblioteki wymagane do działania programu.                           | 1         | Funkcjonalne    |
 | WF2           | Załadowanie danych    | System powinien załadować dane potrzebne do dalszej analizy                                    | 1        | Funkcjonalne    |
-| WF3           | Przygotowanie danych  | System powinien wstępnie przygotować dane do dalszej analizy (sprawdzenie i zamiana typów danych).                                  | 1         | Funkcjonalne    |
+| WF3           | Przygotowanie danych  | System powinien wstępnie przygotować dane do dalszej analizy (sprawdzenie i zamiana typów danych). | 1         | Funkcjonalne    |
 | WF4           | Eksploracja danych    | System powinien przeprowadzić wstępną eksplorację danych i wyświetlić podstawowe statystyki.   | 1         | Funkcjonalne    |
 | WF4.1         | Podstawowe statystyki | System powinien wyświetlać podstawowe statystyki zmiennych w zbiorze danych.                   | 1         | Funkcjonalne    |
 | WF4.2         | Wizualizacja          | System powinien wyświetlać wizualizacje dotyczące zmiennych w zbiorze danych.                  | 1         | Funkcjonalne    |
